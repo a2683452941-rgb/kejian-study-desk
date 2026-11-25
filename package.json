@@ -1,0 +1,10 @@
+{
+  "name": "study-desk",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "大学生学习事务管理 · 课间 Study Desk",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
